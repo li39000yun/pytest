@@ -1,0 +1,1 @@
+python D:\java\python\PycharmProjects\pytest\get_stock_basics.py

@@ -1,0 +1,1 @@
+python E:\python\workspace\tushare_get_stock_basics.py
